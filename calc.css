@@ -1,0 +1,48 @@
+* {
+    text-align: center
+}           
+body {
+    background:white;
+    padding: 0px;
+    text-align: center;
+}
+h1 {
+    font-family: "head";
+    font-size: 60px;
+}
+.container {
+    background-color: rgb(209, 209, 115);
+    margin-left: 35vw;
+    margin-right: 35vw;
+}
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+    width: 28vw;
+}
+.button {
+    width: 70px;
+    height: 65px;
+    font-size: 35px;
+    cursor: pointer;
+    text-align: center;
+    font-family: "numbers";
+    background-color: rgba(255, 255, 255, 0.145);
+    border: none;
+}
+.button:hover {
+    background-color: rgb(134, 134, 134);
+    transition: ease-in 0.06s;
+}
+.textview {
+    width: 25vw;
+    height: 65px;
+    margin: 5px;
+    font-size: 35px;
+    padding: 5px;
+    font-family: "numbers";
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.083);
+    border: none;
+    pointer-events: none;
+}
