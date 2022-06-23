@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    position: fixed;
+    height: 20px;
+}
+.nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 20px;
+}
+.container1 {
+    width: 47vw;
+    display: inline-block;
+    border: 2px solid blue;
+    margin-top: 60px;
+}
+.container2 {
+    display: inline-block;
+    width: 200px;
+    border: 2px solid white;
+    width: 47vw;
+}
