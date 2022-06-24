@@ -38,5 +38,16 @@ h2 {
     font-family: "bold";
     font-size: 15px;
     border-radius: 20px;
-    display: block;
+    display: inline-block;
+    width: 30%;
+}
+p {
+    width: 60%;
+    font-size: 25px;
+    display: inline-block;
+    text-align: left;
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+    
 }
