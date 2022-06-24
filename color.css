@@ -31,6 +31,19 @@ h2 {
     border: none;
     border-radius: 0px;
 }
+.instruction {
+    width: 60%;
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    padding-left: 50px;
+    border: none;
+    border-radius: 0px;
+    background-color: yellow;
+    font-size: 30px;
+    font-family: "bold";
+    text-align: left;
+}
 #genNew {
     border: 2px solid black;
     margin-top: 10px;
@@ -40,14 +53,4 @@ h2 {
     border-radius: 20px;
     display: inline-block;
     width: 30%;
-}
-p {
-    width: 60%;
-    font-size: 25px;
-    display: inline-block;
-    text-align: left;
-    background-color: yellow;
-    margin: 0;
-    padding: 0;
-    
 }
