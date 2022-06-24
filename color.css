@@ -11,23 +11,15 @@ body {
 }
 div {
     width: 16vw;
-    padding: 12px;
     height: 450px;
-    margin: 0px;
+    margin: 40px 0px 0px 0px;
     display: inline-block;
     vertical-align: top;
-    margin-top: 40px;
     background-color: #f2fba3;
-    border: #000000 solid 2px;
 }
 h2 {
     font-size: 40px;
     margin: 2px;
-}
-h1 {
-    color: white;
-    font-size: 35px;
-    margin-top: 350px;
 }
 .nav {
     width: 100%;
