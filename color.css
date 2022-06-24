@@ -10,13 +10,14 @@ body {
     font-family: "bold";
 }
 div {
-    width: 18vw;
+    width: 20vw;
     height: 520px;
     margin: 0px 0px 0px 0px;
     display: inline-block;
     vertical-align: top;
     background-color: #c2c792;
     padding: 0px;
+    float: left;
 }
 h2 {
     font-size: 40px;
@@ -36,18 +37,17 @@ h2 {
     height:50px;
 }
 .text {
-    width: 70%;
+    width: 60%;
     float: left;
     height:70px;
     background-color: rgb(153, 255, 0);
 }
 #genNew {
-    border: 2px solid black;
-    margin-top: 10px;
-    padding: 10px;
     font-family: "bold";
     font-size: 15px;
-    border-radius: 20px;
     display: inline-block;
-    width: 30%;
+    width: 40%;
+    padding-bottom: 20px;
+    height: 70px;
 }
+
