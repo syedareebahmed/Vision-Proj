@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+@font-face {
+    font-family: "bold";
+    src: url(font/Inter-Bold.ttf);
+}
+@font-face {
+    font-family: "basic";
+    src: url(font/Inter-SemiBold.ttf);
+}
+h2 {
+    font-size: 40px;
+    margin: 0px;
+    text-align: center;
+    padding: 12px;
+}
+.nav {
+    width: 100%;
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    color: white;
+    border-radius: 0px;
+    background-color: rgb(0, 0, 0);
+}
+.container{
+    height: 85vh;
+    width: 100%;
+    background-color: yellow;
+}
+#display{
+    width: 100%;
+    font-size: 200px;
+    letter-spacing: 10px;
+    text-align: center;
+    margin: 0px;
+}
+.buttons{
+    text-align: center;
+}
+.button2 {background-color: #008CBA;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+    } 
